@@ -28,7 +28,7 @@ npm install
 npm start
 ```
 
-Provide examples of how to use your project:
+Example of how to use my project:
 
 ```javascript
 // Example code snippet
@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Hendrick Nkuba - [@hendricknkuba](https://twitter.com/yourhandle)
 
 Project Link: [https://github.com/hendricknkuba/hendrickPublicRemoteRepo1](https://github.com/hendricknkuba/hendrickPublicRemoteRepo1)
 
