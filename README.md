@@ -60,4 +60,7 @@ Project Link: [https://github.com/hendricknkuba/hendrickPublicRemoteRepo1](https
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- Expecting merge conflict
+- Forcing merge conflict
+
+
+Collaborator: Rayan Rodrigues
